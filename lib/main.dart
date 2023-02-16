@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutterpokemon/dashboard/dashboard_screen.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+import 'dashboard/detailstats.dart';
+
 void main(List<String> args) {
   runApp(PokemonApp());
 }

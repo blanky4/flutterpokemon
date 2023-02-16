@@ -14,7 +14,6 @@ class PokeContainer extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () {
-
       },
       child: SizedBox(
                 child: Stack(            
